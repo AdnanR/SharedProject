@@ -14,5 +14,12 @@ namespace SharedProject
 
             return "Helper1 method";
         }
+
+        public static string HelperMethod2()
+        {
+            Console.WriteLine("Helper2 method");
+
+            return "Helper1 method";
+        }
     }
 }
